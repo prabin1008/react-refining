@@ -16,6 +16,12 @@ function App() {
     value={"visit"}
     information={"my name is kushal kharel"}
     />
+
+<Card 
+    name="shubam"
+    value={"visit"}
+    information={"my name is Shubam gupta"}
+    />
     </div>
   )
 }
